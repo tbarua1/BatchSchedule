@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrainerWindow</string>
+    <string name="logout">Logout</string>
+    <string name="date_string">Date</string>
+    <string name="university_string">University</string>
+    <string name="batchcode">BatchCode</string>
+    <string name="status">Cancle Batch</string>
+
+    <string-array name="batchinfo">
+        <item>TUP-SFUB-01-ANDROID</item>
+        <item>TUP-IUBAT-02-JAVA</item>
+        <item>TUP-IUBAT-03-ANDROID</item>
+    </string-array>
+
+</resources>
